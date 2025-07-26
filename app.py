@@ -7,7 +7,7 @@ from PIL import Image
 st.set_page_config(page_title="Fake vs Real Face Detector", layout="centered")
 
 # Load model
-model = tf.keras.models.load_model("model/fake_image_model.h5")
+model = tf.keras.models.load_model("model/fake_image_model.h5", compile=False)
 class_names = ['fake', 'real']
 
 # Title
