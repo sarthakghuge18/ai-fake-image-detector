@@ -1,5 +1,5 @@
-streamlit
-tensorflow
-pillow
-numpy
-matplotlib
+streamlit==1.32.0
+markdown-it-py==3.0.0
+mdurl==0.1.2
+rich==14.1.0
+pygments==2.19.2
