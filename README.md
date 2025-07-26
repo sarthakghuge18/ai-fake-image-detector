@@ -16,25 +16,12 @@ Built using **TensorFlow**, **MobileNetV2**, and **Streamlit** for an easy-to-us
 
 ---
 
-## 📂 Project Structure
-
-ai-fake-image-detector/
-├── app.py ← Streamlit web app
-├── train.ipynb ← Model training notebook
-├── model/
-│ └── fake_image_model.h5 ← Trained model
-├── assets/ ← Optional assets (logos/icons)
-├── requirements.txt ← Python package requirements
-└── README.md ← Project documentation
-
-
 ---
 
 ## 🚀 Live Demo
 
-🔗 [Click here to use the app](https://your-username-ai-fake-image-detector.streamlit.app)
+🔗 [Click here to use the app](https://ai-fake-image-detector.streamlit.app)
 
-> _(Replace with your actual URL after deploying)_
 
 ---
 
@@ -50,7 +37,7 @@ ai-fake-image-detector/
 
 ## 🧠 Model Training
 
-- Dataset: 1000+ real and fake face images
+- Dataset: 2000+ real and fake face images
 - Model: MobileNetV2 with top-30 layers fine-tuned
 - Accuracy: ~61% validation accuracy (can be improved)
 - Trained using Keras and TensorFlow 2.x
