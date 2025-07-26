@@ -1,6 +1,9 @@
 streamlit==1.32.0
-tensorflow==2.13.0  # or use tensorflow-cpu==2.13.0 for lighter deployments
-pandas==1.5.3
+tensorflow==2.13.0  # or tensorflow-cpu==2.13.0 if no GPU needed
 numpy==1.23.5
+pandas==1.5.3
 Pillow==9.4.0
-opencv-python==4.7.0.72
+markdown-it-py==3.0.0
+mdurl==0.1.2
+rich==14.1.0
+pygments==2.19.2
