@@ -65,18 +65,3 @@ cd ai-fake-image-detector
 pip install -r requirements.txt
 streamlit run app.py
 
-✅ How to Use
-Upload any .jpg, .jpeg, or .png image of a face.
-
-Wait for the model to analyze it.
-
-Get prediction:
-
-REAL: Likely a genuine human image
-
-FAKE: Possibly AI-generated or deepfake
-
-
-👨‍💻 Developed By
-Sarthak Ghuge
-🎓 B.E. Computer Engineering – AISSMS COE Pune
