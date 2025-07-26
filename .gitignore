@@ -1,0 +1,6 @@
+# Ignore datasets
+dataset/
+assets/
+# Ignore checkpoints and cache
+__pycache__/
+.ipynb_checkpoints/
