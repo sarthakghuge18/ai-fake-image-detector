@@ -16,7 +16,6 @@ Built using **TensorFlow**, **MobileNetV2**, and **Streamlit** for an easy-to-us
 
 ---
 
----
 
 ## 🚀 Live Demo
 
